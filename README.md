@@ -97,10 +97,30 @@ const BEAST_MODE = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=superrjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=superrjj&theme=blood-dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF6D00&currStreakLabel=FF0000" />
+### ⚔️ COMBAT RECORDS ⚔️
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superrjj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=12" />
+<table>
+<tr>
+<td width="50%" align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=superrjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=superrjj&theme=blood-dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF6D00&currStreakLabel=FF0000" alt="GitHub Streak" width="100%" />
+
+</td>
+</tr>
+</table>
+
+### 🔥 WEAPON MASTERY 🔥
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superrjj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=12" alt="Top Languages" width="60%" />
+
+### 📈 ACTIVITY GRAPH - DOMINATION ZONE 📈
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=superrjj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0000&line=FF6D00&point=FFFFFF" alt="Contribution Graph" width="100%" />
 
 </div>
 
