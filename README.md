@@ -1,158 +1,209 @@
 <div align="center">
 
-# 👋 Hello! I'm John Harvee Quirido
+# 💀 JOHN HARVEE QUIRIDO 💀
 
-### 🚴‍♂️ IT Student | Developer | Cyclist 
+### ⚡ CODE WARRIOR | ANDROID ARCHITECT | TARLAC'S FINEST ⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=BREAKING+CODE+%26+BREAKING+RECORDS;STI+TARLAC+%7C+UNSTOPPABLE+FORCE;CYCLIST+BY+DAY+%7C+CODER+BY+NIGHT;NO+BUGS+CAN+ESCAPE+ME+%F0%9F%94%A5" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=superrjj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/superrjj?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=superrjj&label=VICTIMS&color=FF0000&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/DANGER_LEVEL-EXTREME-red?style=for-the-badge&logo=fire" alt="Danger" />
+  <img src="https://img.shields.io/badge/STATUS-LEGENDARY-gold?style=for-the-badge&logo=starship" alt="Status" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=IT+Student+%40+STI+College+Tarlac;Passionate+Android+Developer;Cyclist+from+Tarlac+Province;Always+learning%2C+Always+coding!)](https://git.io/typing-svg)
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🔥 WARNING: BADASS DEVELOPER IN ACTION 🔥                  ║
+║  ⚠️  APPROACH WITH CAUTION - MAY CONTAIN PURE SKILL ⚠️      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 💀 WHO THE HELL AM I?
 
 ```javascript
-const johnHarvee = {
-    location: "Tarlac Province, Philippines 🇵🇭",
-    education: "STI College Tarlac",
-    currentFocus: "Android Development (Java)",
-    passions: ["Cycling", "Coding", "Problem Solving"],
-    askMeAbout: ["Java", "Android Studio", "Cycling Routes"],
-    funFact: "I debug code faster after a long bike ride! 🚴‍♂️💨"
+const BEAST_MODE = {
+    alias: "Spider Harvee 🕷️",
+    location: "Tarlac Province 🇵🇭 - Where Legends Are Born",
+    currentLevel: 99,
+    class: "Full-Stack Destroyer",
+    specialMove: "Android Death Blow",
+    kills: {
+        bugs: "∞",
+        deadlines: "ALL OF THEM",
+        impossibleProjects: "BRING IT ON"
+    },
+    weakness: "NONE DETECTED",
+    motto: "Code Hard, Ride Harder, Never Back Down 🚴‍♂️💨"
 };
 ```
 
-## 🎯 Current Goals
+## 🎯 CURRENT MISSIONS
 
-- 🌱 Mastering **Android Studio** and **Java**
-- 🚀 Building innovative mobile applications
-- 📚 Expanding knowledge in full-stack development
-- 🏆 Contributing to open-source projects
+- 🔥 **DESTROYING** Android Studio challenges with Java
+- ⚡ **DOMINATING** the full-stack development arena  
+- 💀 **CRUSHING** every bug that dares to appear
+- 🚴‍♂️ **CONQUERING** Tarlac's toughest cycling routes
+- 👑 **BUILDING** apps that make competitors cry
 
-## 💼 Tech Stack
-
-<details open>
-<summary><b>🔥 Core Technologies</b></summary>
-<br>
-
-**Languages**
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-**Mobile Development**
-<p>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-**Web Technologies**
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-**Backend & Databases**
-<p>
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</p>
-
-**Tools & Others**
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
-
-</details>
-
-## 📊 GitHub Statistics
+## ⚔️ ARSENAL OF DESTRUCTION
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=superrjj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superrjj&layout=compact&langs_count=8&theme=tokyonight"/>
+
+### 💣 MAIN WEAPONS 💣
+
+![Java](https://img.shields.io/badge/JAVA-MASTER-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
+![Android](https://img.shields.io/badge/ANDROID-DESTROYER-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-ASSASSIN-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![Python](https://img.shields.io/badge/PYTHON-SLAYER-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+
+### ⚡ HEAVY ARTILLERY ⚡
+
+![React](https://img.shields.io/badge/REACT-WARRIOR-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
+![Vue](https://img.shields.io/badge/VUE-DOMINATOR-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)
+![Angular](https://img.shields.io/badge/ANGULAR-BEAST-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000)
+![Flutter](https://img.shields.io/badge/FLUTTER-CRUSHER-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
+![React Native](https://img.shields.io/badge/REACT_NATIVE-KILLER-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗡️ BACKEND BLADES 🗡️
+
+![Node.js](https://img.shields.io/badge/NODE.JS-ANNIHILATOR-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
+![Django](https://img.shields.io/badge/DJANGO-TERMINATOR-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MYSQL-EXECUTIONER-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MONGODB-OBLITERATOR-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![Firebase](https://img.shields.io/badge/FIREBASE-INCINERATOR-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=000000)
+
+### ☁️ CLOUD DEVASTATION ☁️
+
+![AWS](https://img.shields.io/badge/AWS-OVERLORD-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
+![Azure](https://img.shields.io/badge/AZURE-CONQUEROR-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000)
+
+### 🛠️ TACTICAL GEAR 🛠️
+
+![Git](https://img.shields.io/badge/GIT-COMMANDO-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![Linux](https://img.shields.io/badge/LINUX-COMMANDER-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
+![Unity](https://img.shields.io/badge/UNITY-GAMECHANGER-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/UNREAL-GAMEBREAKER-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+</div>
+
+---
+
+## 📊 BATTLE STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=superrjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=superrjj&theme=blood-dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF6D00&currStreakLabel=FF0000" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superrjj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=12" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=superrjj&theme=tokyonight" alt="GitHub Streak"/>
+
+### 🏆 TROPHIES & ACHIEVEMENTS 🏆
+
+<img src="https://github-profile-trophy.vercel.app/?username=superrjj&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophy" />
+
 </div>
+
+---
+
+## 💀 KILL COUNT 💀
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=superrjj&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+| TARGET | STATUS | BODY COUNT |
+|--------|--------|------------|
+| 🐛 Bugs | TERMINATED | ∞ |
+| ⏰ Deadlines | OBLITERATED | 100% |
+| 🔥 Complex Projects | DOMINATED | ALL |
+| 💻 Lines of Code | EXECUTED | 1,000,000+ |
+| ☕ Coffee Cups | CONSUMED | UNCOUNTABLE |
+| 🚴‍♂️ KM Cycled | CONQUERED | 10,000+ |
+
 </div>
 
-## 🚴‍♂️ Beyond Coding
+---
 
-When I'm not busy writing code, you'll find me:
-- 🚴‍♂️ Cycling through the scenic routes of Tarlac Province
-- 📚 Learning new technologies and frameworks
-- 💡 Brainstorming innovative project ideas
-- 🌐 Exploring the intersection of tech and sports
+## 🚴‍♂️ DUAL LIFE: CODE & RIDE
 
-## 📫 Let's Connect!
+<div align="center">
 
-<p align="center">
-  <a href="https://fb.com/superj.aki">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://dev.to/spider harvee">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="mailto:quiridojohnharvee@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+```ascii
+    _______
+   /       \     BY DAY: Crushing code like a boss
+  |  O   O  |    BY NIGHT: Dominating Tarlac roads
+  |    >    |    BY WEEKEND: Breaking cycling records
+   \  ___  /     24/7: Living the legend
+    -------
+```
 
-## ☕ Support My Work
+### 🔥 THE GRIND NEVER STOPS 🔥
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/superj.aki">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
+**Morning:** Debug with coffee ☕  
+**Noon:** Deploy like a demon 👹  
+**Evening:** Ride like the wind 💨  
+**Night:** Code like there's no tomorrow 💻  
+**Repeat:** FOREVER 🔁
+
+</div>
+
+---
+
+## 📡 CONNECT WITH THE LEGEND
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/FACEBOOK-ADD_ME-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://fb.com/superj.aki)
+[![Dev.to](https://img.shields.io/badge/DEV.TO-FOLLOW_ME-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/spider%20harvee)
+[![Gmail](https://img.shields.io/badge/GMAIL-HIRE_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:quiridojohnharvee@gmail.com)
+
+</div>
+
+---
+
+## ☕ FUEL THE BEAST
+
+<div align="center">
+
+**SUPPORT THE GRIND - BUY ME A COFFEE (OR ENERGY DRINK)**
+
+[![Buy Me A Coffee](https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/superj.aki)
+
+</div>
 
 ---
 
 <div align="center">
-  
-### 💭 Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+## 💀 FINAL WORDS 💀
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  "CODE HARD OR GO HOME"                                   ║
+║  "NO PAIN, NO GAIN, NO BUGS, NO SHAME"                    ║
+║  "IF IT COMPILES, IT'S LEGENDARY"                         ║
+║                                                           ║
+║  - John Harvee Quirido (The Coding Cyclone) 🌪️           ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-### Thanks for visiting! 🚀
+### ⚡ REMEMBER ⚡
+**I DON'T JUST WRITE CODE**  
+**I FORGE DIGITAL WEAPONS** 🗡️
 
-**Happy Coding!** 👨‍💻
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=STAY%20LEGENDARY%20🔥&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+**👊 RESPECT THE CODE. RESPECT THE RIDE. RESPECT THE GRIND. 👊**
 
 </div>
