@@ -2,7 +2,7 @@
 
 # 💀 JOHN HARVEE QUIRIDO 💀
 
-### ⚡ CODE WARRIOR | ANDROID ARCHITECT | TARLAC'S FINEST ⚡
+### ⚡ CODE WARRIOR | ANDROID ARCHITECT | TARLAC CYCLIST ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=BREAKING+CODE+%26+BREAKING+RECORDS;STI+TARLAC+%7C+UNSTOPPABLE+FORCE;CYCLIST+BY+DAY+%7C+CODER+BY+NIGHT;NO+BUGS+CAN+ESCAPE+ME+%F0%9F%94%A5" alt="Typing SVG" />
 
@@ -27,11 +27,11 @@
 
 ```javascript
 const BEAST_MODE = {
-    alias: "Spider Harvee 🕷️",
+    alias: "Super Harvee",
     location: "Tarlac Province 🇵🇭 - Where Legends Are Born",
     currentLevel: 99,
     class: "Full-Stack Destroyer",
-    specialMove: "Android Death Blow",
+    specialMove: "Mobile Death Blow",
     kills: {
         bugs: "∞",
         deadlines: "ALL OF THEM",
@@ -153,8 +153,8 @@ const BEAST_MODE = {
 
 ```ascii
     _______
-   /       \     BY DAY: Crushing code like a boss
-  |  O   O  |    BY NIGHT: Dominating Tarlac roads
+   /       \     BY DAY: Dominating Tarlac roads
+  |  O   O  |    BY NIGHT: Crushing code like a boss
   |    >    |    BY WEEKEND: Breaking cycling records
    \  ___  /     24/7: Living the legend
     -------
