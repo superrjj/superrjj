@@ -4,7 +4,7 @@
 
 ### ⚡ CODE WARRIOR | ANDROID ARCHITECT | TARLAC CYCLIST ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=BREAKING+CODE+%26+BREAKING+RECORDS;PiNAKA+POGI+%7C+SA+TARLAC;CYCLIST+BY+DAY+%7C+CODER+BY+NIGHT;NO+BUGS+CAN+ESCAPE+ME+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=BREAKING+CODE+%26+BREAKING+RECORDS;PINAKA+POGI+SA+TARLAC;CYCLIST+BY+DAY+%7C+CODER+BY+NIGHT;NO+BUGS+CAN+ESCAPE+ME+%F0%9F%94%A5" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=superrjj&label=VICTIMS&color=FF0000&style=for-the-badge" alt="Profile views" />
