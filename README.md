@@ -97,21 +97,6 @@ const BEAST_MODE = {
 
 <div align="center">
 
-### ⚔️ COMBAT PERFORMANCE ⚔️
-
-<a href="https://github.com/superrjj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=superrjj&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superrjj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=8"/>
-</a>
-
-### 🔥 STREAK DOMINATION 🔥
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=superrjj&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF6D00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" alt="GitHub Streak"/>
-
-### 🏆 TROPHIES & ACHIEVEMENTS 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=superrjj&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Followers,Issues,PRs,Repositories" alt="Trophy"/>
-
 ### 📈 CONTRIBUTION GRAPH 📈
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=superrjj&theme=github-compact&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
