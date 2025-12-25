@@ -2,9 +2,9 @@
 
 # 💀 JOHN HARVEE QUIRIDO 💀
 
-### ⚡ CODE WARRIOR | ANDROID ARCHITECT | TARLAC CYCLIST ⚡
+### ⚡ CODE WARRIOR | ANDROID ARCHITECT | TARLAC'S FINEST ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=BREAKING+CODE+%26+BREAKING+RECORDS;PINAKA+POGI+SA+TARLAC;CYCLIST+BY+DAY+%7C+CODER+BY+NIGHT;NO+BUGS+CAN+ESCAPE+ME+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=BREAKING+CODE+%26+BREAKING+RECORDS;STI+TARLAC+%7C+UNSTOPPABLE+FORCE;CYCLIST+BY+DAY+%7C+CODER+BY+NIGHT;NO+BUGS+CAN+ESCAPE+ME+%F0%9F%94%A5" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=superrjj&label=VICTIMS&color=FF0000&style=for-the-badge" alt="Profile views" />
@@ -27,11 +27,11 @@
 
 ```javascript
 const BEAST_MODE = {
-    alias: "Super Harvee",
+    alias: "Spider Harvee 🕷️",
     location: "Tarlac Province 🇵🇭 - Where Legends Are Born",
     currentLevel: 99,
     class: "Full-Stack Destroyer",
-    specialMove: "Mobile Death Blow",
+    specialMove: "Android Death Blow",
     kills: {
         bugs: "∞",
         deadlines: "ALL OF THEM",
@@ -105,14 +105,14 @@ const BEAST_MODE = {
 
 **GITHUB WARFARE**
 
-<img src="https://github-readme-stats.vercel.app/api?username=superrjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=superrjj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&include_all_commits=true&count_private=true)
 
 </td>
 <td width="50%" align="center">
 
 **STREAK DOMINATION**
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=superrjj&theme=blood-dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF6D00&currStreakLabel=FF0000" width="100%" alt="GitHub Streak"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=superrjj&theme=blood-dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF6D00&currStreakLabel=FF0000)
 
 </td>
 </tr>
@@ -120,11 +120,11 @@ const BEAST_MODE = {
 
 ### 🔥 LANGUAGE ARSENAL 🔥
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superrjj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=10" width="50%" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superrjj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&langs_count=10)
 
 ### 🏆 TROPHIES & ACHIEVEMENTS 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=superrjj&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophy"/>
+![Trophy](https://github-profile-trophy.vercel.app/?username=superrjj&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -153,8 +153,8 @@ const BEAST_MODE = {
 
 ```ascii
     _______
-   /       \     BY DAY: Dominating Tarlac roads
-  |  O   O  |    BY NIGHT: Crushing code like a boss
+   /       \     BY DAY: Crushing code like a boss
+  |  O   O  |    BY NIGHT: Dominating Tarlac roads
   |    >    |    BY WEEKEND: Breaking cycling records
    \  ___  /     24/7: Living the legend
     -------
